@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/whather-app/static/css/main.2f942da7.css",
+    "main.js": "/whather-app/static/js/main.76130a89.js",
+    "static/js/787.d1d8cc1b.chunk.js": "/whather-app/static/js/787.d1d8cc1b.chunk.js",
+    "index.html": "/whather-app/index.html",
+    "main.2f942da7.css.map": "/whather-app/static/css/main.2f942da7.css.map",
+    "main.76130a89.js.map": "/whather-app/static/js/main.76130a89.js.map",
+    "787.d1d8cc1b.chunk.js.map": "/whather-app/static/js/787.d1d8cc1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f942da7.css",
+    "static/js/main.76130a89.js"
+  ]
+}
